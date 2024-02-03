@@ -1,7 +1,7 @@
 import pygame
 import sys
 import random
-import game_enginge as ge
+import game_engine as ge
 import overlay as ov
 
 pygame.init()
